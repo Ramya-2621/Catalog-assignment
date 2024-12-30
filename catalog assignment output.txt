@@ -1,0 +1,7 @@
+Output:
+
+"Test Case 1:"
+"The secret (constant term c) is: 28"
+"
+Test Case 2:"
+"The secret (constant term c) is: 1.265379435511299e+21"
